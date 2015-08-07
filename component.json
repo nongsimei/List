@@ -1,0 +1,6 @@
+{
+'repos':'http://github.com/huya-fed/List',
+'version':'v1.0.0',
+'name': 'List',
+'main': 'List.js'
+}
